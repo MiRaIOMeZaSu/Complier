@@ -40,7 +40,7 @@ local.properties
 *.suo
 *.user
 *.sln.docstates
-
+*.txt
 # Build results
 
 [Dd]ebug/
@@ -127,6 +127,7 @@ publish/
 # Publish Web Output
 *.Publish.xml
 *.pubxml
+*tempCodeRunnerFile.py
 
 # NuGet Packages Directory
 ## TODO: If you have NuGet Package Restore enabled, uncomment the next line
